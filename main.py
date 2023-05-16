@@ -1,2 +1,2 @@
-for v in range(6):
+for v in range(7):
   print('Number:', v)
